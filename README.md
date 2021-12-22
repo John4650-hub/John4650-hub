@@ -1,7 +1,6 @@
 - 👋 Hi, I’m John4650-hub
 - 👀 I’m interested in python, games, web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me --> johndelvin51@gmail.com
 
 <!---
