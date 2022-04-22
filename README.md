@@ -9,4 +9,4 @@ John4650-hub/John4650-hub is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![John Delvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=John4650-hubcount_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![John Delvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=John4650-hub&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
