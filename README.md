@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href='http://python.org'><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></a>|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" height='40px' src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|
+|Python|Javascript|C|
 
 ---
 **Tools**
@@ -28,5 +29,6 @@ You can click the Preview link to take a look at your changes.
 **Game library/ Engines**
 |<a href='http://phaser.io/'><img width= ' 40px' src='https://github.com/John4650-hub/images/blob/main/img.png'/></a>|<a href ='https://www.pygame.org/'><img src='https://github.com/John4650-hub/images/blob/main/pygame-head-party.png' width='40px'/></a>|
 |--|--|
+|Phaser|Pygame|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John4650-hub&theme=nightowl&background=black)](https://github.com/anuraghazra/github-readme-stats)
