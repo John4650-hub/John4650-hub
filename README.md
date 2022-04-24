@@ -39,5 +39,5 @@ ___
 print('hello world!')
 ```
 ```sh
-> hello world
+> hello world!
 ```
