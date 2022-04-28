@@ -41,3 +41,8 @@ print('hello world!')
 ```sh
 > hello world!
 ```
+**My Certificates**
+| <img src='https://github.com/John4650-hub/images/blob/main/HTML_certificate.jpg' />|<img src='https://github.com/John4650-hub/images/blob/main/Intermediate_Python_certificate.jpg'/>|
+|---|---|
+| <img src='https://github.com/John4650-hub/images/blob/main/JavaScript_certificate.jpg'/>|<img src='https://github.com/John4650-hub/images/blob/main/Python-Data-Structures_certificate.jpg' />|
+| <img src='https://github.com/John4650-hub/images/blob/main/Python-for-Beginners_certificate.jpg' />|<img src='https://github.com/John4650-hub/images/blob/main/Python_certificate.jpg'/>|
