@@ -15,20 +15,20 @@ You can click the Preview link to take a look at your changes.
 ---
 **Programming Languages**
 
-<a href='http://python.org'><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></a>|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" height='40px' src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<a href='http://python.org'><img title="Python" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></a>|<img alt="JS" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="60px" height='60px' src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|
 |Python|Javascript|C|
 
 ---
 **Tools**
 
-| <img title="android" alt="android" width="40px" src="https://github.com/John4650-hub/images/blob/main/What-is-Android-System-WebView.png"> |<a href='https://spck.io/'><img title="SPCK Editor" alt="SPCK Editor" width="40px" src="https://github.com/John4650-hub/images/blob/main/256x256bb.jpg"></a>|<img title="acode" alt="acode" width="40px" src="https://github.com/deadlyjack/Acode/blob/main/res/icon/android/ic_launcher-web.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<a href="https://www.gitpod.io"><img width="40px" src="https://raw.githubusercontent.com/gitpod-io/gitpod/master/components/dashboard/src/icons/gitpod.svg" alt="Gitpod Logo" height="60" /></a>|<a href='https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid'><img src = 'https://github.com/John4650-hub/images/blob/main/unnamed.png' /></a>|<a href='https://play.google.com/store/apps/details?id=ru.iiec.pydroid3'><img width='40px' src ='https://github.com/John4650-hub/images/blob/main/b9716f43-3d52-4544-8e8e-0605b0d4dedf.png'/></a>|
+| <img title="android" alt="android" width="60px" src="https://github.com/John4650-hub/images/blob/main/What-is-Android-System-WebView.png"> |<a href='https://spck.io/'><img title="SPCK Editor" alt="SPCK Editor" width="60px" src="https://github.com/John4650-hub/images/blob/main/256x256bb.jpg"></a>|<img title="acode" alt="acode" width="60px" src="https://github.com/deadlyjack/Acode/blob/main/res/icon/android/ic_launcher-web.png">|<img title="Jupyter Notebook" alt="Jupyter" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<a href="https://www.gitpod.io"><img width="60px" src="https://raw.githubusercontent.com/gitpod-io/gitpod/master/components/dashboard/src/icons/gitpod.svg" alt="Gitpod Logo" height="60" /></a>|<a href='https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid'><img src = 'https://github.com/John4650-hub/images/blob/main/unnamed.png' /></a>|<a href='https://play.google.com/store/apps/details?id=ru.iiec.pydroid3'><img width='60px' src ='https://github.com/John4650-hub/images/blob/main/b9716f43-3d52-4544-8e8e-0605b0d4dedf.png'/></a>|
 |:--|:--|:--|:--|:--|:--|:--|
 |Android v12|spck editor|Acode|jupyter notebooks|Gitpod|Cxxdroid|Pydroid|
 
 
 **Game library/ Engines**
-|<a href='http://phaser.io/'><img width= ' 40px' src='https://github.com/John4650-hub/images/blob/main/img.png'/></a>|<a href ='https://www.pygame.org/'><img src='https://github.com/John4650-hub/images/blob/main/pygame-head-party.png' width='40px'/></a>|
+|<a href='http://phaser.io/'><img width= ' 60px' src='https://github.com/John4650-hub/images/blob/main/img.png'/></a>|<a href ='https://www.pygame.org/'><img src='https://github.com/John4650-hub/images/blob/main/pygame-head-party.png' width='60px'/></a>|
 |--|--|
 |Phaser|Pygame|
 
