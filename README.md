@@ -1,7 +1,6 @@
 - 👋 Hi, I’m John Delvin 
 - My favourite sport is basket ball
 - 🌱 I’m currently working on games 
-- :smile: I'm excited about web3 though have no idea what it is
 - 📫 How to reach me --> johndelvin51@gmail.com
 
 <!---
