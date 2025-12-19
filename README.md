@@ -2,7 +2,7 @@
 - My favourite sport is basket ball
 - 🌱 I’m currently working on games 
 - 📫 How to reach me --> johndelvin51@gmail.com
-
+![](https://komarev.com/ghpvc/?username=john4650-hub)
 <!---
 John4650-hub/John4650-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
