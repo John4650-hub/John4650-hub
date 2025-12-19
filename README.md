@@ -10,6 +10,5 @@ You can click the Preview link to take a look at your changes.
 
 [![John Delvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=John4650-hub&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=John4650-hub&theme=nightowl&background=black)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=john4650-hub)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John4650-hub&langs_count=20&hide_progress=true)
