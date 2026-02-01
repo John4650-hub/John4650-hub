@@ -1,6 +1,5 @@
 - 👋 Hi, I’m John Delvin 
-- My favourite sport is basket ball
-- 🌱 I’m currently working on games 
+- 🌱 I’m currently working on android apps and websites 
 - 📫 How to reach me --> johndelvin51@gmail.com
 ![](https://komarev.com/ghpvc/?username=john4650-hub)
 <!---
